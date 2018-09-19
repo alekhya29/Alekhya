@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="66" started-at="2018-09-19T02:29:02Z" finished-at="2018-09-19T02:29:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="66" started-at="2018-09-19T02:29:02Z" finished-at="2018-09-19T02:29:02Z">
+      <class name="automation_suite.TestngClass2">
+        <test-method status="PASS" signature="C2M1()[pri:0, instance:automation_suite.TestngClass2@5e5792a0]" name="C2M1" duration-ms="2" started-at="2018-09-19T02:29:02Z" finished-at="2018-09-19T02:29:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C2M1 -->
+        <test-method status="PASS" signature="C2M2()[pri:0, instance:automation_suite.TestngClass2@5e5792a0]" name="C2M2" duration-ms="1" started-at="2018-09-19T02:29:02Z" finished-at="2018-09-19T02:29:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C2M2 -->
+      </class> <!-- automation_suite.TestngClass2 -->
+      <class name="automation_suite.TestngClass1">
+        <test-method status="PASS" signature="C1M1()[pri:0, instance:automation_suite.TestngClass1@61832929]" name="C1M1" duration-ms="17" started-at="2018-09-19T02:29:02Z" finished-at="2018-09-19T02:29:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C1M1 -->
+        <test-method status="PASS" signature="C1M2()[pri:0, instance:automation_suite.TestngClass1@61832929]" name="C1M2" duration-ms="2" started-at="2018-09-19T02:29:02Z" finished-at="2018-09-19T02:29:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C1M2 -->
+      </class> <!-- automation_suite.TestngClass1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
