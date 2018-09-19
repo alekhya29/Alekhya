@@ -8,6 +8,8 @@ public class TestngClass1 {
   
   
   System.out.println("C1M1");
+  System.out.println("C1M2");
+
   
   }
   
